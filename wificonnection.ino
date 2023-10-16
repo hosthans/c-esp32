@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 
-const char* ssid = "VentureNet";
-const char* password = "VentureLabLan123!";
+const char* ssid = "";
+const char* password = "!";
 
 
 void setup() {
